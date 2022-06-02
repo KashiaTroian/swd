@@ -1,0 +1,16 @@
+.container {
+  max-width: 1352px;
+  width: 100%;
+  padding:0 10px;
+  margin: 0 auto;
+}
+
+.header-layout {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+  align-items: center;
+}
+.header__btn{
+  margin-left: 24px;
+}

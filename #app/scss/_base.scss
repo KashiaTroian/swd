@@ -5,6 +5,7 @@ body {
     color: #F6F6F6;
    }
 }
+//header
 .header__btn{
   background: linear-gradient(180deg, #ECCC5A 0.98%, #E7B234 54.86%, #D2992D 100%);
   font-style: normal;
@@ -16,4 +17,14 @@ body {
     text-transform: uppercase;
     color: #0D0D0D;
     padding:14px 16px;
+}
+//footer
+.info-text {
+  font-size: 11px;
+  line-height: 163%;
+  letter-spacing: 0.035em;
+}
+.footer {
+  font-size: 14px;
+  border-top: 1px solid rgba(148, 148, 148, 0.7);
 }

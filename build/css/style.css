@@ -159,6 +159,23 @@ body a {
   margin-left: 24px;
 }
 
+.contact-form__layout {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 930px;
+  margin: 0 auto;
+  padding: 20px 160px;
+}
+
+.contact-form__text {
+  width: 50%;
+}
+
+form.contact-form {
+  width: 50%;
+}
+
 .footer-layout {
   max-width: 1184px;
   width: 100%;
